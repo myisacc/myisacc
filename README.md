@@ -13,6 +13,4 @@ GIF
 技术栈 与 开发工具:
 
     
-You found a secret!
- WF8890/WF8890 is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile.
-Make sure it’s public and initialize it with a README to get started.
+![decription](https://img.shields.io/badge/tools-pycharm-green)
